@@ -32,14 +32,13 @@ Quickly analyze and reverse engineer Android applications.
     * WebView references
 
 ## INSTALL:
-```
-./install
-```
+
+./install_unix  #unix
+sh install_macos #macos
 
 ## USAGE:
-```
-reverse-apk <apk_name>
-```
+reverse-apk <apk_name> #unix
+sh reverse-apk <apk_name> #macos
 
 ## LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (1N3@CrowdShield) and is not for commercial use.
